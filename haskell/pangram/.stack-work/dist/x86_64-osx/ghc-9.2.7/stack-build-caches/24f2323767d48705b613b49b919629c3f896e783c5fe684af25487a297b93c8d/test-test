@@ -1,0 +1,12 @@
+/Users/zbynekjurica/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+/Users/zbynekjurica/Exercism/haskell/pangram/.stack-work/dist/x86_64-osx/ghc-9.2.7/build/test/autogen/Paths_pangram.hs:
+  hash: a7cfffb5d9f845f645d8f686f0d835253d93a551f936dccafea392d6ff12e3fe
+/Users/zbynekjurica/Exercism/haskell/pangram/.stack-work/dist/x86_64-osx/ghc-9.2.7/build/test/autogen/cabal_macros.h:
+  hash: b8446a3a7dba1b87ffd5878696b2edb5a7e25cfe96edf277ebecf83d10158254
+/Users/zbynekjurica/Exercism/haskell/pangram/package.yaml:
+  hash: a20259d778562157bcbad05a4afa3f0215e7ca0173bf006030491347d3c9d4cb
+/Users/zbynekjurica/Exercism/haskell/pangram/pangram.cabal:
+  hash: 9023959e692baab7edcf4a81a42b221aefeef7840e6a3c55b24dea291d974cc0
+/Users/zbynekjurica/Exercism/haskell/pangram/test/Tests.hs:
+  hash: 55929c84426c40df7d6f58021f7d8521a3e0a66b5dd5059fba0f7152e11ad65b
