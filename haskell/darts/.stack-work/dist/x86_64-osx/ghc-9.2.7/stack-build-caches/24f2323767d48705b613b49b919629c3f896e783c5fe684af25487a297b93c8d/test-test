@@ -1,0 +1,12 @@
+/Users/zbynekjurica/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+/Users/zbynekjurica/Exercism/haskell/darts/.stack-work/dist/x86_64-osx/ghc-9.2.7/build/test/autogen/Paths_darts.hs:
+  hash: 4aa9b1857a1c10baccab4a6467fd0792552ff7090b3e6c0676c5eb6d86836671
+/Users/zbynekjurica/Exercism/haskell/darts/.stack-work/dist/x86_64-osx/ghc-9.2.7/build/test/autogen/cabal_macros.h:
+  hash: 2115380031eaa571802ae633da4edea31c683cfd076d3a101fe08273ee874c1b
+/Users/zbynekjurica/Exercism/haskell/darts/darts.cabal:
+  hash: 2067f4c9f133c8036fa96ccffae8e1b865f881b0a5ccaba111afaf471d085f09
+/Users/zbynekjurica/Exercism/haskell/darts/package.yaml:
+  hash: 32a11a0c6b50b3de3d10a8d40e443a2dd95888c8a05adff6368ee05d3aa02c42
+/Users/zbynekjurica/Exercism/haskell/darts/test/Tests.hs:
+  hash: b5cb5a9dcbf02af817a79be61644c77400b7abbacc7ac0cb196a575382531cfc

@@ -1,0 +1,12 @@
+/Users/zbynekjurica/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+/Users/zbynekjurica/Exercism/haskell/leap/.stack-work/dist/x86_64-osx/ghc-9.2.7/build/test/autogen/Paths_leap.hs:
+  hash: cebb4afdd59c8ffc83da2fc06d6729dc619d8072e1057c14ab373c00efdb0f71
+/Users/zbynekjurica/Exercism/haskell/leap/.stack-work/dist/x86_64-osx/ghc-9.2.7/build/test/autogen/cabal_macros.h:
+  hash: 7a009728fbb39055df3f4ac7aa08c074dfab3ccdcb1dc0d54164e50696815376
+/Users/zbynekjurica/Exercism/haskell/leap/leap.cabal:
+  hash: b8a00c7458d13756b1e353c589eed9b3d0c22b48ff8c6ad85f0a2af8e57d4f08
+/Users/zbynekjurica/Exercism/haskell/leap/package.yaml:
+  hash: 741adae21e7fab15e96ec98d318f3ec9cbc33dc86f419cd56cd829d6c64a1c54
+/Users/zbynekjurica/Exercism/haskell/leap/test/Tests.hs:
+  hash: bd70928d9dac981dd68e102da27d1995749854ef7d59e2c3bd735c04a5454fd1

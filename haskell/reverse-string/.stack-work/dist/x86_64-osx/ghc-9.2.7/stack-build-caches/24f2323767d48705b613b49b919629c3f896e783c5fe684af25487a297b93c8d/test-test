@@ -1,0 +1,12 @@
+/Users/zbynekjurica/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+? /Users/zbynekjurica/Exercism/haskell/reverse-string/.stack-work/dist/x86_64-osx/ghc-9.2.7/build/test/autogen/Paths_reverse_string.hs
+: hash: 44b01f28c19096e99c63bcf1e23d49cd1ebfb1e8b88abac2988210252560c8a8
+/Users/zbynekjurica/Exercism/haskell/reverse-string/.stack-work/dist/x86_64-osx/ghc-9.2.7/build/test/autogen/cabal_macros.h:
+  hash: 13d52081d34fb277294090cc8ed8dbccfbb240ffb13460698850f7ee1c4638ef
+/Users/zbynekjurica/Exercism/haskell/reverse-string/package.yaml:
+  hash: b890e1480b3250833d7ab93c04b7bd4033e0b9cbfeb80993edf2f6d8ec141585
+/Users/zbynekjurica/Exercism/haskell/reverse-string/reverse-string.cabal:
+  hash: 06e53c3c47c15f609cfebe0838351f089fd57ad3c30326c7018e073a85d34fde
+/Users/zbynekjurica/Exercism/haskell/reverse-string/test/Tests.hs:
+  hash: eebd1102b600e9983bfbfb9f06c9ca3ce3f8cb206d758c7ef4f12fd9b650b1c2
